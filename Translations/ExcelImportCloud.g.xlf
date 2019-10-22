@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ExcelImportCloud">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2281628180 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Imported Data - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2281628180 - Field 512627881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Column 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Imported Data - Field Column 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2281628180 - Field 4169898560 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Column 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table My Imported Data - Field Column 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4248267211 - NamedType 2808191070" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no records to be processed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Process Excel Import - NamedType NoRecordsErr</note>
+        </trans-unit>
+        <trans-unit id="Report 1731482064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import From Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import From Excel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1731482064 - Control 2581507614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Parameters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import From Excel - Control FileInformation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1731482064 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import From Excel - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1731482064 - Control 3943603846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import From Excel - Control SheetNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1731482064 - NamedType 2928972280" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please choose proper file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import From Excel - NamedType FileNameErr</note>
+        </trans-unit>
+        <trans-unit id="Report 1731482064 - NamedType 3865442186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import (%1)|%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import From Excel - NamedType FileDialogTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1731482064 - NamedType 3777830815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Excel File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import From Excel - NamedType ImportTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1731482064 - NamedType 303728444" size-unit="char" translate="no" xml:space="preserve">
+          <source>*.xlsx;*.xls;*.*</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Import From Excel - NamedType FilterTxt</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
